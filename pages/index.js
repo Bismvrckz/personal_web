@@ -9,7 +9,7 @@ export default function Home() {
         <div className="w-[100%] h-[100%] bg-gray-600">
           <div className="w-[90vh] h-[90vh]">
             <Image
-              alt=""
+              alt="nuclear"
               unoptimized
               width={500}
               height={500}
@@ -25,7 +25,7 @@ export default function Home() {
         <div className="w-[100%] h-[100%] bg-gray-600">
           <div className="w-[90vh] h-[90vh]">
             <Image
-              alt=""
+              alt="nuclear"
               unoptimized
               width={500}
               height={500}
