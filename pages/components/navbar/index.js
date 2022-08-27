@@ -7,7 +7,7 @@ function Navbar() {
       <div className="relative w-[100vw] h-[7vh] flex items-center">
         <div className="bg-transparent z-[2]">
           <Link href="/">
-            <a className="font-[600] text-[1.5rem]">Bismarckz</a>
+            <a className="font-[600] text-[1.7rem] ml-[2vw]">Bismarckz</a>
           </Link>
         </div>
         <div className="bg-gray-700 w-[100vw] h-[7vh] overflow-hidden absolute z-[1]">
