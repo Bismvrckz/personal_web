@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="bg-gray-800 w-[100vw] h-[100vh] flex flex-col">
       <Navbar />
-      <div className="overflow-auto h-[93vh]">
+      <div className="overflow-auto h-[93vh] scrollbar">
         <div className="w-[100%] h-[100%] bg-gray-600">
           <div className="w-[90vh] h-[90vh]">
             <Image
