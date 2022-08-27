@@ -10,6 +10,7 @@ function Navbar() {
             <a className="font-[600] text-[1.7rem] ml-[2vw]">Bismarckz</a>
           </Link>
         </div>
+
         <div className="bg-gray-700 w-[100vw] h-[7vh] overflow-hidden absolute z-[1]">
           <div className="rotate-45 mt-[-100vh] ml-[-70vw] tablet:mt-[-80vh] desktop:mt-[-120vh] desktop:ml-[-10vw]  z-[1]">
             <div className="bg-yellow-500 h-[15px]"></div>
