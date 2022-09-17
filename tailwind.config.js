@@ -11,11 +11,8 @@ module.exports = {
 
       laptop: "1024px",
 
-      desktop: "1280px",
-      // => @media (min-width: 1280px) { ... }
+      desktop: "1440px",
     },
   },
-  plugins: [
-    require('tailwind-scrollbar'),
-  ],
+  plugins: [require("tailwind-scrollbar")],
 };

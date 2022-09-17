@@ -15,12 +15,12 @@
 
   .scrollbar::-webkit-scrollbar-thumb {
     background: #eab308;
-    border-radius: 1vh;
-    /* border: 3px solid #f6f7ed; */
+    border-radius: 100vh;
+    /* border: 0.8vh solid #4b5563; */
   }
 
   .scrollbar::-webkit-scrollbar-thumb:hover {
-    background: #c0a0b9;
+    background: #eab308;
   }
 }
 

@@ -13,6 +13,10 @@ function MyApp({ Component, pageProps }) {
           rel="stylesheet"
         />
         <link
+          href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
+          rel="stylesheet"
+        />
+        <link
           rel="icon"
           type="image/png"
           href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpL-3B2esy2Q9r8TTVdYVECEdW5KE-_pL4q9os6ej7a20louanTZsZu4Oq31UBd88Pxk&usqp=CAU"
